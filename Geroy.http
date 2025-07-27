@@ -1,0 +1,6 @@
+@Geroy_HostAddress = http://localhost:5136
+
+GET {{Geroy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

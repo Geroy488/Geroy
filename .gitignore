@@ -1,0 +1,25 @@
+﻿# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore file indexing cache
+*.vsidx
+
+# Optional: Ignore user secrets and local configs
+appsettings.Development.json
